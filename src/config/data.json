@@ -1,0 +1,50 @@
+{
+  "bride": {
+    "name": "Anjali",
+    "fullName": "Anjali Menon"
+  },
+  "groom": {
+    "name": "Arjun",
+    "fullName": "Arjun Nair"
+  },
+  "wedding": {
+    "date": "2026-08-20T10:00:00",
+    "hashtag": "#AnjalisArjun",
+    "venue": "Kumarakom Lake Resort, Kerala",
+    "mapsUrl": "https://maps.app.goo.gl/placeholder"
+  },
+  "events": [
+    {
+      "id": "engagement",
+      "title": "Engagement",
+      "date": "August 18, 2026",
+      "time": "4:00 PM",
+      "venue": "Grand Hyatt Kochi",
+      "dressCode": "Traditional Elegance"
+    },
+    {
+      "id": "wedding",
+      "title": "Muhurtham",
+      "date": "August 20, 2026",
+      "time": "10:00 AM",
+      "venue": "Kumarakom Lake Resort",
+      "dressCode": "Kerala Traditional (Kasavu / Mundu)"
+    },
+    {
+      "id": "reception",
+      "title": "Reception",
+      "date": "August 20, 2026",
+      "time": "7:00 PM",
+      "venue": "Kumarakom Lake Resort",
+      "dressCode": "Western Formal / Evening Gowns"
+    }
+  ],
+  "family": {
+    "brideParents": "Mr. Rajeev Menon & Mrs. Sunitha Menon",
+    "groomParents": "Mr. Suresh Nair & Mrs. Lakshmi Nair"
+  },
+  "theme": {
+    "primaryColor": "#d4af37",
+    "secondaryColor": "#f5f5dc"
+  }
+}
