@@ -1,5 +1,7 @@
 # Ultra-Premium Cinematic 3D Kerala Wedding Invitation
 
+🌍 **Live Demo:** [https://storied-pavlova-aa6a5c.netlify.app/](https://storied-pavlova-aa6a5c.netlify.app/)
+
 A fully responsive, luxury digital wedding invitation built with modern web technologies. This project blends traditional Kerala wedding aesthetics with cinematic storytelling, immersive 3D interactions, and premium UI design.
 
 ## Features
